@@ -1,32 +1,31 @@
-# TCC 2026 — [Nome do Grupo]
+# TCC 2026 — [GlyControl]
 **LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves**
 
 ---
 
 ## 👥 Integrantes
 
-| Nome completo | GitHub | Turma |
+| yasmin de deus melo| @yasmin02143 | 3C |
 |--------------|--------|-------|
-| (nome 1) | @username | 3A |
-| (nome 2) | @username | 3A |
-| (nome 3) | @username | 3A |
+| (anne elise de sousa lima) | @ | 3C |
 
-**Tema:** (escreva aqui em 1 frase)
-**Tecnologia:** Python + Flask + SQLite
+
+**Tema:** (Sistema web para monitoramento alimentar da população idosa com diabetes Mellitus tipo 2)
+**Tecnologia:**CSS, JAVA SCRIPT,HTML.
 
 ---
 
 ## 🎯 O que o sistema faz
 
-(Descreva em 2-3 frases o problema que o sistema resolve e para quem)
+( A solução proposta é o GlyControl, um sistema web voltado para idosos com Diabetes Mellitus tipo 2. O usuário poderá registrar glicemia, refeições e consumo de água. Com base nesses dados, o sistema exibirá classificações por cores, recomendações alimentares e acompanhamento da evolução por relatórios. Também haverá um espaço de interação entre usuários para troca de experiências. Futuramente, o sistema poderá integrar recursos de Inteligência Artificial.)
 
 ---
 
 ## 🔄 Como o grupo trabalha toda semana
 
-1. **Segunda** — cada integrante abre Issues da semana (use o template "Tarefa Semanal")
-2. **Durante a semana** — trabalham e fazem commits
-3. **Sexta** — o grupo abre 1 Pull Request linkando as Issues concluídas
+1. **Segunda** — Revisamos o que cada uma vai fazer 
+2. **Durante a semana** — resolvemos penndenciasda semana anterior
+3. **Sexta** — faz o documento de pergunta aos afetados
 4. **Push** — métricas de participação aparecem automaticamente no Actions
 
 ---
