@@ -1,7 +1,7 @@
 # Arquitetura do Sistema
 
-**Grupo:** (nome do grupo)
-**Última atualização:** (data)
+**Grupo:** (GlyContrl)
+**Última atualização:** (11/06/2026)
 
 ---
 
