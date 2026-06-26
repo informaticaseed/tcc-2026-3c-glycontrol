@@ -2,12 +2,12 @@
 **LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves**
 
 ---
-
+ 
 ## 👥 Integrantes
 
 | yasmin de deus melo| @yasmin02143 | 3C |
 |--------------|--------|-------|
-| (anne elise de sousa lima) | @ | 3C |
+| (anne elise de sousa lima) | @ teste| 3C |
 
 
 **Tema:** (Sistema web para monitoramento alimentar da população idosa com diabetes Mellitus tipo 2)
