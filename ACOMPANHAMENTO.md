@@ -1,7 +1,7 @@
 # Acompanhamento Quinzenal — Prof. Rafael
-**Grupo:** [Nome do Grupo]
-**Turma:** 3A / 3B / 3C
-**Repositório:** [link]
+**Grupo:** Gly controal
+**Turma:**  3C
+
 
 ---
 
@@ -11,9 +11,17 @@
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Anne Elise |  banco de dados: CRUD alimento; backend: CRUD alimento |
+| Yasmin |frontend:  CRUD alimento |
+
+Sugestões: utilizar o sqlite para banco de dados e o backend em flask
+
+Backlog:
+- backend: CRUD usuário; CRUD alimento; analisar glicose
+- frontend:  CRUD usuário; CRUD alimento; analisar glicose
+- banco de dados:  CRUD usuário; CRUD alimento; analisar glicose
+- Relatório: introdução, resumo, abstract, levantamento de requisitos, diagrama de caso uso, conclusão
+
 
 ### Verificação em 08/08
 
