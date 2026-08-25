@@ -21,6 +21,7 @@ Backlog:
 - frontend:  CRUD usuário; CRUD alimento; analisar glicose
 - banco de dados:  CRUD usuário; CRUD alimento; analisar glicose
 - Relatório: introdução, resumo, abstract, levantamento de requisitos, diagrama de caso uso, conclusão
+- Integrar o claude com o groq: groq.com
 
 
 ### Verificação em 08/08
@@ -38,13 +39,12 @@ Backlog:
 
 ## Quinzena 2 — 10/08 a 22/08
 
-### Compromissos assumidos em 10/08
+### Compromissos assumidos em 25/08
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Anne Elise |  Adiantar parte escrita: fundamentação teórica e metodologia, arrumar os bugs do chat, conectar com groq, organizar os arquivos corretamentes do código, verificar o banco de dados se está funcionando corretamente (sqlite) |
+| Yasmin | Inscrição da feira tecnológica, apresentação (slide), passar as informações da planilha excel para o banco de dados SQLite |
 
 ### Verificação em 22/08
 
