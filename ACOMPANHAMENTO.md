@@ -61,13 +61,12 @@ Backlog:
 
 ## Quinzena 3 — 24/08 a 05/09
 
-### Compromissos assumidos em 24/08
+### Compromissos assumidos em 08/09
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Anne Elise |  Adiantar parte escrita: diagrama de caso, cronograma, diagrama entidade relacionamento (banco de dados) e diagrama DFD, conectar com groq, organizar os arquivos corretamentes do código, deploy do site no vercel/render |
+| Yasmin | Inscrição da feira tecnológica, apresentação (slide), passar as informações da planilha excel para o banco de dados SQLite |
 
 ### Verificação em 05/09
 
